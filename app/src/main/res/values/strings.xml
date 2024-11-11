@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CryptoTracker</string>
+    <string name="error_request_timeout">The request Timeout</string>
+    <string name="error_too_many_requests">Too many Requests</string>
+    <string name="error_no_internet">Can\'t Connect To Internet, Check your Internet</string>
+    <string name="error_server">Server Error</string>
+    <string name="error_serialization">Serialization Error</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="market_Cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change last 24h</string>
 </resources>
